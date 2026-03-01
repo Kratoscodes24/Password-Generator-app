@@ -265,7 +265,7 @@ const styles = StyleSheet.create({
     borderRadius: 15,
   },
   resultText: {
-    fontSize: 1,
+    fontSize: 25,
     fontWeight: 'bold',
   },
 })
